@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Calorie Counter", "Calorie Counter\Calorie Counter.pyproj", "{3CCC42EF-8FD3-4204-B12B-D1BAAC4D0D95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CCC42EF-8FD3-4204-B12B-D1BAAC4D0D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CCC42EF-8FD3-4204-B12B-D1BAAC4D0D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48D21B47-A73B-4F4D-B07A-EB50775C205D}
+	EndGlobalSection
+EndGlobal
